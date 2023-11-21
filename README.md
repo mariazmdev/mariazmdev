@@ -1,4 +1,4 @@
-👋 Hi, I’m Maria Zawadzki, a Computer Technician studying Full Stack from Spain.
+👋 Hi, I’m Maria Zawadzki, a Web Developer studying Full Stack from Spain.
 
 - 👀 I’m interested in software and web development, but also IT as a whole.
 - 🌱 I’m currently focusing on learning new technologies, but open to work.
